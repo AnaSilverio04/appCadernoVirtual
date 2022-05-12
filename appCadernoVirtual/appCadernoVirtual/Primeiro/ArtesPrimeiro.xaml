@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.ArtesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text=
+                "- Representação Artística sobre as manifestações artísticas
+                 - Arte Rupestre
+                 - Arte mesopotâmia e arte egípcia
+                 - A arte Romana Construção dos arcos Romano, Egípcio e Ogival
+                 - A arte islâmica, literatura e arquitetura
+                 - Representação Artística sobre Perspectiva
+                 - Maneirismo
+                 - Rococó
+                 - Romantismo
+                 - Realismo"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

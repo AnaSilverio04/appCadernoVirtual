@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.FundamentosPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label 
+                Text=
+                "- Sistemas operacionais
+                 - Redes de computadores, internet e computação ubíqua
+                 - Linux, Conceitos, comandos básicos."/>
+
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

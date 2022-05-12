@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.HistoriaPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text=
+               "- Leituras da realidade e ideologia
+                - Povos gregos
+                - Egipcios
+                - As transformações pelas quais passou o trabalho compulsório e a construção da cultura e da sociedade, na Idade Média
+                - Renascimento comercial e urbano"/>
+            
+         </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

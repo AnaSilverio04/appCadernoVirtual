@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.WebPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text=
+             "- Introdução a linguagem HTML
+              - Tags basicas HTML
+              - Folha de estilo em cascata (Cascading Style Sheets – CSS): atributo, classe, propriedade, cores (padronização de cores para Web (RGB e Hexadecimal), criação de comentários em CSS); link para uma folha de estilo externa; propriedades de folha de estilo (class e identification)"/>
+   
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

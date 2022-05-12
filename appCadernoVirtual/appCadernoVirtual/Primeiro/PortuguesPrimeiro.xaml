@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.PortuguesPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text=
+              "- Gêneros Literários
+               - Funções de linguagem
+               - Variação linguistica
+               - Acentuação gráfica
+               - Interpretação de texto
+               - Figuras de linguagem"/>
+            
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

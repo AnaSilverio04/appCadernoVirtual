@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appCadernoVirtual.Primeiro.BDPrimeiroPrimeiro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text=
+               "- Conceito de Banco de Dados
+                - Relacionamento de tabelas
+                - Estrutura de uma tabela 
+                - Introdução ao Acess
+                - SQL - MESTRE DETALHE
+                - Conceitos - banco de dados Mestre x Detalhe
+                - SQL - Banco de Dados- Comandos aula prática"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
